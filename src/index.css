@@ -1,0 +1,49 @@
+@import "tailwindcss/theme";
+@import "tailwindcss/utilities";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --bg-gradient: linear-gradient(135deg, #0b1215 0%, #061c1e 100%);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: linear-gradient(rgba(11, 18, 21, 0.8), rgba(6, 28, 30, 0.8)), url('/bg.png') center / cover fixed;
+  color: #f3f4f6;
+  min-height: 100vh;
+  overflow-y: scroll;
+  scrollbar-gutter: stable;
+}
+
+
+
+code,
+pre {
+  font-family: var(--font-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b1215;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}

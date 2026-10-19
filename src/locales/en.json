@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "courses": "Courses",
+    "language": "Language"
+  },
+  "courseList": {
+    "title": "Available Courses",
+    "startCourse": "Start Course"
+  },
+  "courseDetail": {
+    "codeChallenge": "Code Challenge",
+    "multipleChoice": "Multiple Choice"
+  },
+  "lesson": {
+    "run": "Run",
+    "submit": "Submit",
+    "selectCorrectAnswer": "Select the correct answer:",
+    "submitAnswer": "Submit Answer",
+    "running": "Running...",
+    "submitting": "Submitting...",
+    "ready": "Ready for the challenge?",
+    "noOutput": "(No output)",
+    "errorRunning": "Error running code",
+    "type": {
+      "code_challenge": "Code Challenge",
+      "multiple_choice": "Multiple Choice"
+    }
+  },
+  "admin": {
+    "createCourse": "Create New Course",
+    "title": "Title",
+    "description": "Description",
+    "cancel": "Cancel",
+    "create": "Create",
+    "addChapter": "Add Chapter",
+    "createChapter": "Create New Chapter",
+    "order": "Order",
+    "addLesson": "Add Lesson",
+    "createLesson": "Create New Lesson",
+    "type": "Type",
+    "language": "Language",
+    "multipleChoice": "Multiple Choice",
+    "codeChallenge": "Code Challenge",
+    "starterCode": "Starter Code",
+    "solutionCode": "Solution Code",
+    "testCode": "Test Code",
+    "addOption": "Add Option",
+    "optionText": "Option Text",
+    "isCorrect": "Correct Answer",
+    "removeOption": "Remove",
+    "expectedOutput": "Expected Output"
+  },
+  "tests": {
+    "title": "TESTS & EXAMS"
+  }
+}

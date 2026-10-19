@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "courses": "Kurzusok",
+    "language": "Nyelv"
+  },
+  "courseList": {
+    "title": "Elérhető kurzusok",
+    "startCourse": "Kurzus indítása"
+  },
+  "courseDetail": {
+    "codeChallenge": "Kódolós feladat",
+    "multipleChoice": "Feleletválasztós feladat"
+  },
+  "lesson": {
+    "run": "Futtatás",
+    "submit": "Beküldés",
+    "selectCorrectAnswer": "Válaszd ki a helyes választ:",
+    "submitAnswer": "Válasz beküldése",
+    "running": "Futtatás...",
+    "submitting": "Beküldés...",
+    "ready": "Készen állsz a kihívásra?",
+    "noOutput": "(Nincs kimenet)",
+    "errorRunning": "Hiba történt a futtatás során",
+    "type": {
+      "code_challenge": "Kódos kihívás",
+      "multiple_choice": "Feleletválasztós feladat"
+    }
+  },
+  "admin": {
+    "createCourse": "Új kurzus létrehozása",
+    "title": "Cím",
+    "description": "Leírás",
+    "cancel": "Mégsem",
+    "create": "Létrehozás",
+    "addChapter": "Fejezet hozzáadása",
+    "createChapter": "Új fejezet létrehozása",
+    "order": "Sorrend",
+    "addLesson": "Lecke hozzáadása",
+    "createLesson": "Új lecke létrehozása",
+    "type": "Típus",
+    "language": "Nyelv",
+    "multipleChoice": "Feleletválasztós",
+    "codeChallenge": "Kódolós feladat",
+    "starterCode": "Kezdőkód (Starter Code)",
+    "solutionCode": "Megoldás (Solution Code)",
+    "testCode": "Teszt kód (Test Code)",
+    "addOption": "Válasz hozzáadása",
+    "optionText": "Válasz szövege",
+    "isCorrect": "Helyes válasz",
+    "removeOption": "Törlés",
+    "expectedOutput": "Várt kimenet"
+  },
+  "tests": {
+    "title": "TESZTEK ÉS VIZSGÁK"
+  }
+}
+
